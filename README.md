@@ -1,0 +1,12 @@
+# Angular 2 Tour of Heroes
+
+This is an implementation of Angular 2's "[Tour of Heroes](https://angular.io/docs/ts/latest/tutorial/toh-pt1.html)" tutorial.
+
+For comparison, check out [the version I built in React](https://github.com/coryhouse/react-tour-of-heroes).
+
+I built this as part of my research for this post: [Angular versus React: There Will Be Blood]()
+
+#Get Started
+1. `npm install`
+2. `npm start`
+
