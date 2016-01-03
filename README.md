@@ -4,7 +4,7 @@ This is an implementation of Angular 2's "[Tour of Heroes](https://angular.io/do
 
 For comparison, check out [the version I built in React](https://github.com/coryhouse/react-tour-of-heroes).
 
-I built this as part of my research for this post: [Angular versus React: There Will Be Blood](https://medium.com/@housecor/angular-2-versus-react-there-will-be-blood-66595faafd51#.p1ucoabov)
+I built this as part of my research for this post: [Angular 2 versus React: There Will Be Blood](https://medium.com/@housecor/angular-2-versus-react-there-will-be-blood-66595faafd51#.p1ucoabov)
 
 #Get Started
 1. `npm install`
